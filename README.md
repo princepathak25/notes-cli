@@ -1,4 +1,4 @@
-# CLI Notes App
+# Notes App
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 A clean, minimal Notes app built specifically for terminal lovers.  
@@ -35,7 +35,7 @@ Requires Python 3.x
 ## Sample Interaction
 
 ```bash
-🗒️✨ Welcome to CLI Notes App ✨🗒️
+🗒️✨ Welcome to Notes ✨🗒️
 Stay organized. Stay legendary.
 
 🔸 What would you like to do?
