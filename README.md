@@ -1,36 +1,41 @@
-# 🗒️ Prince's CLI Notes App
+# CLI Notes App
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-A clean, minimal & emoji-powered Notes app built in Python for terminal lovers.  
-Add, view, and delete notes with style — perfect for beginner devs or productivity nerds.  
-No external files, no setup hell — just run and vibe.
-
----
-
-## ✨ Features
-
-- 📝 Add a note with a title and content
-- 📋 View all saved notes in a clean format
-- 🗑️ Delete notes easily using their number
-- ⏳ Smooth CLI experience using `time.sleep()` animations
-- 🧠 Fully in-memory — no files, no JSON, no database
-- 💬 Human-friendly interface and emoji-driven output
+A clean, minimal Notes app built specifically for terminal lovers.  
+Add, view, and delete notes with style — perfect for productivity nerds.  
 
 ---
 
-## 🚀 How to Run
+## Features
+
+- Add a note with a title and content
+- View all saved notes in a clean format
+- Delete notes easily using their number
+- Smooth CLI experience using `time.sleep()` animations
+- Fully in-memory — no files, no JSON, no database
+
+---
+
+## Tech Stack
+
+- Python
+
+---
+
+## How to Run
 
 ```bash
-python notes-prince.py
+python notes-app-prince.py
 ```
 
-⚙️ Requires Python 3.x (no additional libraries)
+Requires Python 3.x
 
 ---
 
-## 🧠 Sample Interaction
+## Sample Interaction
 
 ```bash
-🗒️✨ Welcome to Prince Pathak's CLI Notes App ✨🗒️
+🗒️✨ Welcome to CLI Notes App ✨🗒️
 Stay organized. Stay legendary.
 
 🔸 What would you like to do?
@@ -53,42 +58,17 @@ Stay organized. Stay legendary.
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
-📦 notes-prince-cli
- ┣ 📄 notes-prince.py
- ┣ 📄 README.md
- ┣ 📄 .gitignore
- ┗ 📄 LICENSE (MIT)
+notes-cli
+ ┣ notes-app-prince.py
+ ┣ README.md
+
 ```
 
 ---
 
-## 🛠 Built With
+## Author
 
-- 💻 Python 3.x
-- 🕒 `time` module (for UX transitions)
-- 🧠 Logic-first design — no frameworks
-
----
-
-## 🙋‍♂️ About the Creator
-
-Built with 💙 by **Prince Pathak**  
-Part of a personal Python project series during the developer glow-up phase ✨
-
----
-
-## 🌟 Coming Soon
-
-- ✅ File-based version using `.txt`
-- 🧰 Search notes by keyword
-- 🖥️ Web version with Flask or JS
-- 🎨 GUI with Tkinter
-
----
-
-## 📄 License
-
-Licensed under the [MIT License](LICENSE)
+**Prince Pathak**
