@@ -1,11 +1,8 @@
-# 🗒️ Prince's CLI Notes App 
-# Aesthetic & Clean Version
-# Created by Prince Pathak
-# Version 1.0
+# CLI Notes App 
 import time
 
 def display_banner():
-    print("\n🗒️✨ Welcome to Prince Pathak's CLI Notes App ✨🗒️")
+    print("\n🗒️✨ Welcome to Notes ✨🗒️")
     print("Stay organized. Stay legendary.\n")
 
 def show_menu():
@@ -69,5 +66,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-# End of the notes app code
-# Enjoy organizing your thoughts with style! 🗒️✨
